@@ -417,4 +417,4 @@ Her gün 15-30 dakika kod yazarak öğrendiklerinizi pekiştirin. Basit hesaplam
 
 ---
 
-**🎯 Sonraki ders: Koşullu İfadeler ve Karar Yapıları**
+**🎯 Sonraki ders: Koşullu İfadeler ve Karar Yapıları**  
