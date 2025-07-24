@@ -1,79 +1,75 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: 'Python Programlama Kursu',
-  description: 'Sıfırdan İleri Seviye Python Programlama Dersi',
+  title: "Python Programlama Kursu",
+  description: "Sıfırdan İleri Seviye Python Programlama Dersi",
   themeConfig: {
     nav: [
-      { text: 'Ana Sayfa', link: '/' },
-      { text: 'Dersler', link: '/degiskenler.md' },
-      { text: 'Ödevler', link: '/odevler/degiskenler-odev1.md' }
+      { text: "Ana Sayfa", link: "/" },
+      { text: "Dersler", link: "/degiskenler.md" },
+      { text: "Ödevler", link: "/odevler/degiskenler-odev1.md" },
     ],
     sidebar: [
       {
-        text: '📚 Dersler',
+        text: "📚 Dersler",
         items: [
           {
-            text: '🏠 Ana Sayfa',
-            link: '/'
+            text: "⚙️ Kurulum Aşaması",
+            link: "/dersler/kurulum.md",
           },
           {
-            text: '⚙️ Kurulum Aşaması',
-            link: '/kurulum.md'
+            text: "💻 Bilgisayar Bilimine Giriş",
+            link: "/dersler/BilgisayarBilimineGiriş.md",
           },
           {
-            text: '💻 Bilgisayar Bilimine Giriş',
-            link: '/BilgisayarBilimineGiriş.md'
+            text: "🔤 Değişkenler ve Operatörler",
+            link: "/dersler/degiskenler.md",
           },
           {
-            text: '🔤 Değişkenler ve Operatörler',
-            link: '/degiskenler.md'
+            text: "📊 Veri Türleri",
+            link: "/dersler/veri-turleri.md",
           },
           {
-            text: '📊 Veri Türleri',
-            link: '/veri-turleri.md'
+            text: "🔄 Kontrol Yapıları",
+            link: "/dersler/if-elif-else-temel.md",
           },
           {
-            text: '🔄 Kontrol Yapıları',
-            link: '/kontrol-yapilari.md'
+            text: "⚡ Fonksiyonlar",
+            link: "/dersler/fonksiyonlar.md",
           },
           {
-            text: '⚡ Fonksiyonlar',
-            link: '/fonksiyonlar.md'
+            text: "🏗️ Nesne Yönelimli Programlama",
+            link: "/dersler/nesne-yonelimli-programlama.md",
           },
           {
-            text: '🏗️ Nesne Yönelimli Programlama',
-            link: '/nesne-yonelimli-programlama.md'
+            text: "📁 Dosya İşlemleri ve Hata Yönetimi",
+            link: "/dersler/dosya-islemleri.md",
           },
           {
-            text: '📁 Dosya İşlemleri ve Hata Yönetimi',
-            link: '/dosya-islemleri.md'
+            text: "🚀 İleri Seviye Konular",
+            link: "/dersler/ileri-python-konulari.md",
           },
-          {
-            text: '🚀 İleri Seviye Konular',
-            link: '/ileri-python-konulari.md'
-          }
-        ]
+        ],
       },
       {
-        text: '📝 Ödevler',
+        text: "📝 Ödevler",
         items: [
           {
-            text: 'Değişkenler - Ödev 1',
-            link: '/odevler/degiskenler-1.md'
+            text: "GÜNCEL ÖDEVLER",
+            link: "/odevler/if-elif-else-ek-odevler.md",
           },
           {
-            text: 'Değişkenler - Ödev 2',
-            link: '/odevler/degiskenler-2.md'
+            text: "Değişkenler - Ödev 1",
+            link: "/odevler/degiskenler-1.md",
           },
           {
-            text: 'Değişkenler - Ödev 3',
-            link: '/odevler/degiskenler-3.md'
+            text: "Değişkenler - Ödev 2",
+            link: "/odevler/degiskenler-2.md",
           },
-          // {
-          //   text: 'Değişkenler - Ödev 4',
-          //   link: '/odevler/degiskenler-odev4.md'
-          // },
+          {
+            text: "Değişkenler - Ödev 3",
+            link: "/odevler/degiskenler-3.md",
+          },
           // {
           //   text: 'Değişkenler - Ödev 5',
           //   link: '/odevler/degiskenler-odev5.md'
@@ -98,15 +94,13 @@ export default defineConfig({
           //   text: 'Değişkenler - Ödev 10',
           //   link: '/odevler/degiskenler-odev10.md'
           // }
-        ]
-      }
+        ],
+      },
     ],
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com" }],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 Python Programlama Kursu'
-    }
-  }
-})
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2024 Python Programlama Kursu",
+    },
+  },
+});
