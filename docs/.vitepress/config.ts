@@ -25,30 +25,30 @@ export default defineConfig({
             text: "🔤 Değişkenler ve Operatörler",
             link: "/dersler/degiskenler.md",
           },
-          {
-            text: "📊 Veri Türleri",
-            link: "/dersler/veri-turleri.md",
-          },
+          // {
+          //   text: "📊 Veri Türleri",
+          //   link: "/dersler/veri-turleri.md",
+          // },
           {
             text: "🔄 Kontrol Yapıları",
             link: "/dersler/if-elif-else-temel.md",
           },
-          {
-            text: "⚡ Fonksiyonlar",
-            link: "/dersler/fonksiyonlar.md",
-          },
-          {
-            text: "🏗️ Nesne Yönelimli Programlama",
-            link: "/dersler/nesne-yonelimli-programlama.md",
-          },
-          {
-            text: "📁 Dosya İşlemleri ve Hata Yönetimi",
-            link: "/dersler/dosya-islemleri.md",
-          },
-          {
-            text: "🚀 İleri Seviye Konular",
-            link: "/dersler/ileri-python-konulari.md",
-          },
+          // {
+          //   text: "⚡ Fonksiyonlar",
+          //   link: "/dersler/fonksiyonlar.md",
+          // },
+          // {
+          //   text: "🏗️ Nesne Yönelimli Programlama",
+          //   link: "/dersler/nesne-yonelimli-programlama.md",
+          // },
+          // {
+          //   text: "📁 Dosya İşlemleri ve Hata Yönetimi",
+          //   link: "/dersler/dosya-islemleri.md",
+          // },
+          // {
+          //   text: "🚀 İleri Seviye Konular",
+          //   link: "/dersler/ileri-python-konulari.md",
+          // },
         ],
       },
       {
