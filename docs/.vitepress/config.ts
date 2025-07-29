@@ -55,8 +55,12 @@ export default defineConfig({
         text: "📝 Ödevler",
         items: [
           {
-            text: "GÜNCEL ÖDEVLER",
+            text: "GÜNCEL ÖDEVLER 1",
             link: "/odevler/if-elif-else-ek-odevler.md",
+          },
+          {
+            text: "GÜNCEL ÖDEVLER 2",
+            link: "/odevler/if-elif-2.md",
           },
           {
             text: "Değişkenler - Ödev 1",
