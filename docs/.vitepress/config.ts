@@ -33,7 +33,15 @@ export default defineConfig({
             text: "🔄 Kontrol Yapıları",
             link: "/dersler/if-elif-else-temel.md",
           },
-          // {
+          {
+            text: "🔄 For Döngüleri",
+            link: "/dersler/for-temel.md",
+          },
+          {
+            text: "🔄 While Döngüleri",
+            link: "/dersler/while-temel.md",
+          },
+          // {<
           //   text: "⚡ Fonksiyonlar",
           //   link: "/dersler/fonksiyonlar.md",
           // },
@@ -55,12 +63,12 @@ export default defineConfig({
         text: "📝 Ödevler",
         items: [
           {
-            text: "GÜNCEL ÖDEVLER 1",
-            link: "/odevler/if-elif-else-ek-odevler.md",
+            text: "FOR ÖDEVLERİ",
+            link: "/odevler/for-odevleri.md",
           },
           {
-            text: "GÜNCEL ÖDEVLER 2",
-            link: "/odevler/if-elif-2.md",
+            text: "WHİLE ÖDEVLERİ",
+            link: "/odevler/while-odevleri.md",
           },
           {
             text: "Değişkenler - Ödev 1",
@@ -74,6 +82,15 @@ export default defineConfig({
             text: "Değişkenler - Ödev 3",
             link: "/odevler/degiskenler-3.md",
           },
+          {
+            text: "if elif else Ödevler 1",
+            link: "/odevler/if-elif-else-ek-odevler.md",
+          },
+          {
+            text: "if elif else Ödevler 2",
+            link: "/odevler/if-elif-2.md",
+          },
+
           // {
           //   text: 'Değişkenler - Ödev 5',
           //   link: '/odevler/degiskenler-odev5.md'
