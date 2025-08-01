@@ -34,6 +34,10 @@ En çok tekrar eden: Hepsi eşit (her karakter 1 kez)
 - Her karakteri tek tek kontrol edin
 - En çok tekrar eden için her karakteri sayın
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ---
 
 ## Ödev 2: Çarpım Tablosu Matrisi (Orta)
@@ -54,6 +58,10 @@ Kullanıcıdan bir sayı alın (1-12 arası). Bu sayıya kadar olan tüm sayıla
 - İç içe for döngüleri kullanın
 - Sayıları düzgün hizalamak için format kullanın
 - İlk satır ve sütun başlık olacak
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ---
 
@@ -81,6 +89,10 @@ Fibonacci serisinin ilk 10 terimini kullanarak aşağıdaki deseni oluşturun:
 - Her satırda o satır numarasına kadar Fibonacci sayısı yazdırın
 - İç içe döngü kullanın
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ---
 
 ## Ödev 4: ASCII Sanat Piramidi (Orta)
@@ -105,6 +117,10 @@ Kullanıcıdan bir yükseklik değeri alın ve aşağıdaki ASCII piramidini çi
 **İpuçları:**
 - İç içe döngü kullanın
 - İlk döngü boşluklar, ikinci döngü yıldızlar için
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ---
 
@@ -131,6 +147,10 @@ Toplam: 56
 - 1'den girilen sayıya kadar for döngüsü kullanın
 - Her sayının çift olup olmadığını kontrol edin
 - Çift sayıları toplam değişkenine ekleyin
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ---
 
@@ -160,6 +180,10 @@ Basamaklar ortalaması: 2.0
 - Sayıyı string'e çevirip karakter karakter dolaşın
 - Her karakteri int'e çevirip işlem yapın
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ---
 
 ## Ödev 7: Kelime Sayma (Çok Kolay)
@@ -176,6 +200,10 @@ Kelime sayısı: 5
 **İpuçları:**
 - Boşluk karakterlerini sayarak kelime sayısını bulun
 - Kelime sayısı = boşluk sayısı + 1
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ---
 
@@ -204,6 +232,10 @@ Kullanıcıdan bir sayı alın (1-10 arası). Aşağıdaki deseni oluşturun:
 - İç içe for döngüleri kullanın
 - Dış döngü satır sayısı, iç döngü sütun sayısı için
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ---
 
 ## Ödev 9: Çarpım Tablosu (Kolay)
@@ -229,6 +261,10 @@ Sayı girin: 7
 **İpuçları:**
 - 1'den 10'a kadar for döngüsü kullanın
 - Her adımda çarpım sonucunu yazdırın
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ---
 

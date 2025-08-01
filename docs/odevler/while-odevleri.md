@@ -36,6 +36,10 @@ Tebrikler! 4 denemede buldunuz.
 
 ---
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ## Ödev 2: Şifre Doğrulama (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
 
@@ -58,6 +62,10 @@ Hoş geldiniz! 3 denemede doğru şifreyi girdiniz.
 - Şifre eşleşince döngüden çıkın
 
 ---
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ## Ödev 3: Çarpım Tablosu (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
@@ -86,6 +94,10 @@ Sayı girin: 6
 
 ---
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ## Ödev 4: Toplam Hesaplama (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
 
@@ -105,6 +117,10 @@ Toplam: 36
 
 ---
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ## Ödev 5: Çift Sayı Toplama (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
 
@@ -123,6 +139,10 @@ Toplam: 42
 - Çift sayıları toplam değişkenine ekleyin
 
 ---
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ## Ödev 6: Basamak Sayma (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
@@ -146,6 +166,10 @@ Sayı girin: 12345
 - While döngüsü ile sayı 0 olana kadar bölün
 
 ---
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ## Ödev 7: Ters Sayı (Orta)
 **Zorluk:** ⭐⭐⭐☆☆
@@ -171,6 +195,10 @@ Sayı girin: 12345
 
 ---
 
+```python
+# kodunuzu buraya yazin.
+```
+
 ## Ödev 8: Faktöriyel Hesaplama (Orta)
 **Zorluk:** ⭐⭐⭐☆☆
 
@@ -194,6 +222,10 @@ Sayı girin: 5
 - İsteğe bağlı: İşlemi de ekrana yazdırın
 
 ---
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ## Ödev 9: Fibonacci Serisi (Orta)
 **Zorluk:** ⭐⭐⭐☆☆
@@ -219,6 +251,10 @@ Toplam: 33
 - Sayaç ile terim sayısını kontrol edin
 
 ---
+
+```python
+# kodunuzu buraya yazin.
+```
 
 ## Ödev 10: Basamak Toplama (Kolay)
 **Zorluk:** ⭐⭐☆☆☆
