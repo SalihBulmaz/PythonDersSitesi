@@ -41,6 +41,14 @@ export default defineConfig({
             text: "🔄 While Döngüleri",
             link: "/dersler/while-temel.md",
           },
+          {
+            text: "🔄 Listeler",
+            link: "/dersler/listeler-detayli.md",
+          },
+          {
+            text: "🔄 Stringler",
+            link: "/dersler/string-detayli.md",
+          },
           // {<
           //   text: "⚡ Fonksiyonlar",
           //   link: "/dersler/fonksiyonlar.md",
