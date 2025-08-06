@@ -76,7 +76,7 @@ export default defineConfig({
           },
           {
             text: "STR ÖDEVLERİ",
-            link: "/odevler/str-odevleri-1.md",
+            link: "/odevler/str-odevleri.md",
           },
           {
             text: "Değişkenler - Ödev 1",
