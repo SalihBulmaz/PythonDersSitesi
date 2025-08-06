@@ -71,12 +71,12 @@ export default defineConfig({
         text: "📝 Ödevler",
         items: [
           {
-            text: "FOR ÖDEVLERİ",
-            link: "/odevler/for-odevleri.md",
+            text: "LIST ÖDEVLERİ",
+            link: "/odevler/list-odevleri.md",
           },
           {
-            text: "WHİLE ÖDEVLERİ",
-            link: "/odevler/while-odevleri.md",
+            text: "STR ÖDEVLERİ",
+            link: "/odevler/str-odevleri-1.md",
           },
           {
             text: "Değişkenler - Ödev 1",
@@ -97,6 +97,14 @@ export default defineConfig({
           {
             text: "if elif else Ödevler 2",
             link: "/odevler/if-elif-2.md",
+          },
+          {
+            text: "for ödevleri",
+            link: "/odevler/for-odevleri.md",
+          },
+          {
+            text: "while ödevleri",
+            link: "/odevler/while-odevleri.md",
           },
 
           // {
