@@ -60,7 +60,7 @@ export default defineConfig({
         items: [
           {
             text: "📖 SÖZLÜK Ödevleri",
-            link: "/odevler/sozluk-odev.md",
+            link: "/odevler/sozlukler-odev.md",
           },
           {
             text: "⚙️ FONKSİYON Ödevleri",
