@@ -49,22 +49,10 @@ export default defineConfig({
             text: "🔄 Stringler",
             link: "/dersler/string-detayli.md",
           },
-          // {<
-          //   text: "⚡ Fonksiyonlar",
-          //   link: "/dersler/fonksiyonlar.md",
-          // },
-          // {
-          //   text: "🏗️ Nesne Yönelimli Programlama",
-          //   link: "/dersler/nesne-yonelimli-programlama.md",
-          // },
-          // {
-          //   text: "📁 Dosya İşlemleri ve Hata Yönetimi",
-          //   link: "/dersler/dosya-islemleri.md",
-          // },
-          // {
-          //   text: "🚀 İleri Seviye Konular",
-          //   link: "/dersler/ileri-python-konulari.md",
-          // },
+          {
+            text: "Fonksiyonlar",
+            link: "/dersler/fonksiyonlar",
+          },
         ],
       },
       {
