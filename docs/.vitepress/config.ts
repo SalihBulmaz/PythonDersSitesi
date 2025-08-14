@@ -5,9 +5,9 @@ export default defineConfig({
   description: "Sıfırdan İleri Seviye Python Programlama Dersi",
   themeConfig: {
     nav: [
-      { text: "Ana Sayfa", link: "/" },
-      { text: "Dersler", link: "/degiskenler.md" },
-      { text: "Ödevler", link: "/odevler/degiskenler-odev1.md" },
+      { text: "🏠 Ana Sayfa", link: "/" },
+      { text: "📚 Dersler", link: "/degiskenler.md" },
+      { text: "📝 Ödevler", link: "/odevler/degiskenler-odev1.md" },
     ],
     sidebar: [
       {
@@ -30,11 +30,11 @@ export default defineConfig({
           //   link: "/dersler/veri-turleri.md",
           // },
           {
-            text: "🔄 Kontrol Yapıları",
+            text: "� Kontrol Yapıları",
             link: "/dersler/if-elif-else-temel.md",
           },
           {
-            text: "🔄 For Döngüleri",
+            text: "� For Döngüleri",
             link: "/dersler/for-temel.md",
           },
           {
@@ -42,15 +42,15 @@ export default defineConfig({
             link: "/dersler/while-temel.md",
           },
           {
-            text: "🔄 Listeler",
+            text: "� Listeler",
             link: "/dersler/listeler-detayli.md",
           },
           {
-            text: "🔄 Stringler",
+            text: "� Stringler",
             link: "/dersler/string-detayli.md",
           },
           {
-            text: "Fonksiyonlar",
+            text: "🔧 Fonksiyonlar",
             link: "/dersler/fonksiyonlar",
           },
         ],
@@ -59,40 +59,48 @@ export default defineConfig({
         text: "📝 Ödevler",
         items: [
           {
-            text: "LIST ÖDEVLERİ",
-            link: "/odevler/list-odevleri.md",
+            text: "📖 SÖZLÜK Ödevleri",
+            link: "/odevler/sozluk-odev.md",
           },
           {
-            text: "STR ÖDEVLERİ",
-            link: "/odevler/str-odevleri.md",
+            text: "⚙️ FONKSİYON Ödevleri",
+            link: "/odevler/fonksiyonlar-odev.md",
           },
           {
-            text: "Değişkenler - Ödev 1",
+            text: "📝 Değişkenler - Ödev 1",
             link: "/odevler/degiskenler-1.md",
           },
           {
-            text: "Değişkenler - Ödev 2",
+            text: "📝 Değişkenler - Ödev 2",
             link: "/odevler/degiskenler-2.md",
           },
           {
-            text: "Değişkenler - Ödev 3",
+            text: "📝 Değişkenler - Ödev 3",
             link: "/odevler/degiskenler-3.md",
           },
           {
-            text: "if elif else Ödevler 1",
+            text: "🔀 if elif else Ödevler 1",
             link: "/odevler/if-elif-else-ek-odevler.md",
           },
           {
-            text: "if elif else Ödevler 2",
+            text: "🔀 if elif else Ödevler 2",
             link: "/odevler/if-elif-2.md",
           },
           {
-            text: "for ödevleri",
+            text: "🔁 for ödevleri",
             link: "/odevler/for-odevleri.md",
           },
           {
-            text: "while ödevleri",
+            text: "🔄 while ödevleri",
             link: "/odevler/while-odevleri.md",
+          },
+          {
+            text: "📋 list ödevleri",
+            link: "/odevler/list-odevleri.md",
+          },
+          {
+            text: "🔤 str ödevleri",
+            link: "/odevler/str-odevleri.md",
           },
 
           // {
