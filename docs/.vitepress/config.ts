@@ -53,6 +53,10 @@ export default defineConfig({
             text: "🔧 Fonksiyonlar",
             link: "/dersler/fonksiyonlar",
           },
+          {
+            text: "🔧 Dosyalar",
+            link: "/dersler/dosya-islemleri",
+          },
         ],
       },
       {
