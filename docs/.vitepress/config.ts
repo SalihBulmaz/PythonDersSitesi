@@ -68,7 +68,7 @@ export default defineConfig({
         items: [
           {
             text: 'Modül Ödevleri',
-            link: '/odevler/modul-pratikler'
+            link: '/odevler/modul-odevler'
           },
           {
             text: "📖 SÖZLÜK Ödevleri",
