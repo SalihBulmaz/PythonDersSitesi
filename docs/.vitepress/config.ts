@@ -110,6 +110,10 @@ export default defineConfig({
             text: "🔤 str ödevleri",
             link: "/odevler/str-odevleri.md",
           },
+          {
+            text: 'Modül Pratikleri',
+            link: '/odevler/modul-pratikler'
+          }
 
           // {
           //   text: 'Değişkenler - Ödev 5',
