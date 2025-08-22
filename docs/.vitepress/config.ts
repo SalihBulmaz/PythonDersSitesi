@@ -67,6 +67,10 @@ export default defineConfig({
         text: "📝 Ödevler",
         items: [
           {
+            text: 'Modül Ödevleri',
+            link: '/odevler/modul-pratikler'
+          },
+          {
             text: "📖 SÖZLÜK Ödevleri",
             link: "/odevler/sozlukler-odev.md",
           },
@@ -110,10 +114,6 @@ export default defineConfig({
             text: "🔤 str ödevleri",
             link: "/odevler/str-odevleri.md",
           },
-          {
-            text: 'Modül Pratikleri',
-            link: '/odevler/modul-pratikler'
-          }
 
           // {
           //   text: 'Değişkenler - Ödev 5',
