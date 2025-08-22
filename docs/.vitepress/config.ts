@@ -57,6 +57,10 @@ export default defineConfig({
             text: "🔧 Dosyalar",
             link: "/dersler/dosya-islemleri",
           },
+          {
+            text: "🔧 Modüller",
+            link: "/dersler/moduller",
+          },
         ],
       },
       {
